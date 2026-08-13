@@ -1,2 +1,2 @@
 # IDP
-A reusable investment data engineering and analytics pipeline
+An end-to-end investment data pipeline that sources public financial, market, and economic data from multiple sources; validates, cleans, transforms, and stores it in standardized datasets; and makes the resulting data available for visualization and downstream investment analysis. Veralto serves as the initial case study, while the architecture is designed to support additional companies, REITs, and ETFs.
